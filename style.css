@@ -1,0 +1,77 @@
+html, body{
+    background-color: #5a5dd6;
+    margin: 0%;
+    padding: 0%;
+}
+
+.top_hader{
+    background-color: #5a5dd6;
+}
+
+.tabmanu{
+    background-color: #3b3d86;
+}
+
+.manu{
+    padding: 2%;
+    color: aliceblue;
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+}
+
+.content{
+    margin: 0 auto; /*จัดตรงกลางของกล่องแม่*/
+    text-align: center;
+    /* background-image: url(../pic/bgg.JPG); */
+    height: 100%;
+}
+
+.welcome{
+    margin: 5% auto;
+    width: 60%;
+    display: block;
+
+}
+
+.brand{
+    color: aliceblue;
+    size: 20px;
+    font-weight: 900;
+}
+
+.dog{
+    margin: 2%;
+    width: 35%;
+    box-sizing: border-box;
+}
+.near{
+    width: 20%;
+    box-sizing: border-box;
+}
+
+.text_fixed{
+    position: sticky;
+    right: 2%;
+    bottom: 1%;
+    text-align:right;
+}
+
+.text_fix1{
+    width: 30%;
+    padding: 1%;
+}
+
+.text_fix2{
+    width: 15%;
+}
+
+.low_footer{
+    color: aliceblue;
+    background-color: #3b3d86;
+    padding: 2%;
+}
+
+
+
+

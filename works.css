@@ -1,0 +1,84 @@
+html body{
+    background-color: #5a5dd6;
+    margin: 0%;
+    padding: 0%;
+}
+
+.tabmanu{
+    background-color: #3b3d86;
+    
+}
+
+.manu{
+    padding: 2%;
+    color: aliceblue;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.brand{
+    text-align: center;
+}
+
+.maincontent{
+    max-width: 100%;
+    text-align: center;
+}
+
+/* ภาพจตุรัส */
+.div_box{
+    text-align: center;
+    border-radius: 25px; /*มุมมน*/
+    width: 37%;
+    background-color:#ffff;
+    margin: 5% 2%;
+    padding: 3%;
+    display: inline-block;
+}
+
+.pic{
+    width: 100%;
+}
+
+.edit{
+    margin: -3px 0%;
+    border-radius: 25px;
+    background-color: #fcd53d;
+}
+
+/* ภาพแนวนอน */
+.div_box1 {
+    text-align: center;
+    border-radius: 25px;
+    width: 84%;
+    background-color: #ffff;
+    margin: 0% 2%;
+    padding: 3%;
+    display: inline-block;
+}
+
+.text_fixed{
+    position: sticky;
+    right: 2%;
+    bottom: 1%;
+    text-align:right;
+}
+
+.text_fix1{
+    width: 30%;
+    padding: 1%;
+}
+
+.text_fix2{
+    width: 15%;
+}
+
+.low_footer{
+    color: aliceblue;
+    background-color: #3b3d86;
+    padding: 2%;
+}
+
+
+
+
